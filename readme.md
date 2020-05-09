@@ -52,3 +52,7 @@ Alejandro Serrano Jurriaan Hage Simon Peyton Jones, Dimitrios Vytiniotis
 
 **Computation Focusing**  
 Nick Rioux, Steve Zdancewic
+
+**Lower Your Guards — A Compositional Pattern-Match Coverage Checker**
+Sebastian Graf, Simon Peyton Jones, Ryan G. Scott
+([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf))
