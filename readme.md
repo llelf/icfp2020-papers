@@ -43,4 +43,12 @@ Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann
 **Achieving High Performance the Functional Way**  
 Bastian Hagedorn, ???
 
+**Denotational Recurrence Extraction for Amortized Analysis**  
+Joe Cutler, Norman Danner, Dan Licata
 
+**A quick look at impredicativity**  
+Alejandro Serrano Jurriaan Hage Simon Peyton Jones, Dimitrios Vytiniotis  
+([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/quick-look.pdf))
+
+**Computation Focusing**  
+Nick Rioux, Steve Zdancewic
