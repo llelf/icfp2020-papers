@@ -44,7 +44,8 @@ Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann
 Bastian Hagedorn, ???
 
 **Denotational Recurrence Extraction for Amortized Analysis**  
-Joe Cutler, Norman Danner, Dan Licata
+Joe Cutler, Dan Licata, Norman Danner  
+([pdf](https://jdublu10.github.io/assets/pdf/amortized-icfp20.pdf))
 
 **A quick look at impredicativity**  
 Alejandro Serrano Jurriaan Hage Simon Peyton Jones, Dimitrios Vytiniotis  
