@@ -40,8 +40,8 @@ Sudha Parimala, Atul Dhiman, Anil Madhavapeddy
 Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
 ([pdf](http://ps.informatik.uni-tuebingen.de/publications/schuster20capability.pdf))
 
-**Achieving High Performance the Functional Way**  
-Bastian Hagedorn, ???
+**Achieving High Performance the Functional Way - A Functional Pearl on Expressing High-Performance Optimizations as Rewrite Strategies**  
+Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, Michel Steuwer
 
 **Denotational Recurrence Extraction for Amortized Analysis**  
 Joe Cutler, Dan Licata, Norman Danner  
