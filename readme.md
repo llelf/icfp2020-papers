@@ -59,5 +59,5 @@ Sebastian Graf, Simon Peyton Jones, Ryan G. Scott
 ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf))
 
 **Elaboration with First-Class Implicit Function Types**  
-András Kovács
+András Kovács  
 ([pdf](https://github.com/AndrasKovacs/icfp20sub/blob/master/paper.pdf))
