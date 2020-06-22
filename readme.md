@@ -1,6 +1,6 @@
 ## ICFP 2020  
 
-https://icfp20.sigplan.org/track/icfp-2020-papers#event-overview (not yet available)
+https://icfp20.sigplan.org/track/icfp-2020-papers#event-overview
 
 ----
 
