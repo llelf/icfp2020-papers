@@ -37,15 +37,12 @@ Alejandro Serrano, Jurriaan Hage, Simon Peyton Jones, Dimitrios Vytiniotis
 
 **A Unified View of Modalities in Type Systems**  
 Andreas Abel, Jean-Philippe Bernardy  
-([pdf] ())
 
 **A dependently typed calculus with pattern matching and erasure inference**  
 Matúš Tejiščák  
-([pdf] ())
 
 **Achieving High-Performance the Functional Way - A Functional Pearl on Expressing High-Performance Optimizations as Rewrite Strategies**  
 Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, Michel Steuwer  
-([pdf] ())
 
 **Compiling Effect Handlers in Capability-Passing Style**  
 Philipp Schuster, Jonathan Immanuel Brachthäuser, Klaus Ostermann  
@@ -57,7 +54,6 @@ Matthew Weidner, Christopher Meiklejohn, Heather Miller
 
 **Computation Focusing**  
 Nick Rioux, Steve Zdancewic  
-([pdf] ())
 
 **Cosmo: A Concurrent Separation Logic for Multicore OCaml**  
 Glen Mével, Jacques-Henri Jourdan, François Pottier  
@@ -69,7 +65,6 @@ Joe Cutler, Dan Licata, Norman Danner
 
 **Duplo: A Framework for OCaml Post-Link Optimisation**  
 Nandor Licker, Timothy M. Jones  
-([pdf] ())
 
 **Effect Handlers, Evidently**  
 Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, Daan Leijen  
@@ -109,7 +104,6 @@ Sebastian Graf, Simon Peyton Jones, Ryan G. Scott
 
 **Parsing with Zippers (Functional Pearl)**  
 Pierce Darragh, Michael D. Adams  
-([pdf] ())
 
 **Program Sketching with Live Bidirectional Evaluation**  
 Justin Lubin, Nick Collins, Cyrus Omar, Ravi Chugh  
@@ -117,7 +111,6 @@ Justin Lubin, Nick Collins, Cyrus Omar, Ravi Chugh
 
 **Raising Expectations: Automating Expected Cost Analysis with Types**  
 Di Wang, David M. Kahn, Jan Hoffmann  
-([pdf] ())
 
 **Recovering Purity with Comonads and Capabilities**  
 Vikraman Choudhury, Neel Krishnaswami  
@@ -149,11 +142,9 @@ Taro Sekiyama, Takeshi Tsukada, Atsushi Igarashi
 
 **Sparcl: A Language for Partially-Invertible Computation**  
 Kazutaka Matsuda, Meng Wang  
-([pdf] ())
 
 **Stable Relations and Abstract Interpretation of Higher-Order Programs**  
 Benoit Montagu, Thomas P. Jensen  
-([pdf] ())
 
 **Staged Selective Parser Combinators**  
 Jamie Willis, Nicolas Wu, Matthew Pickering  
@@ -165,7 +156,6 @@ Nikhil Swamy, Aseem Rastogi, Aymeric Fromherz, Denis Merigoux, Danel Ahman, Guid
 
 **Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille**  
 Aaron Stump, Chris Jenkins, Stephan Spahn, Colin McDonald  
-([pdf] ())
 
 **Temporal Logic of Composable Distributed Components**  
 Jeremiah Griffin, Mohsen Lesani, Narges Shadab, Xizhe Yin  
