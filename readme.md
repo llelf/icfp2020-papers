@@ -42,7 +42,7 @@ Andreas Abel, Jean-Philippe Bernardy
 **A dependently typed calculus with pattern matching and erasure inference**  
 Matúš Tejiščák  
 
-**Achieving High-Performance the Functional Way - A Functional Pearl on Expressing High-Performance Optimizations as Rewrite Strategies**  
+**Achieving High-Performance the Functional Way — A Functional Pearl on Expressing High-Performance Optimizations as Rewrite Strategies**  
 Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, Michel Steuwer  
 
 **Compiling Effect Handlers in Capability-Passing Style**  
@@ -74,7 +74,7 @@ Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schu
 **Effects for Efficiency: Asymptotic Speedup with First-Class Control**  
 Daniel Hillerström, Sam Lindley, John Longley  
 ([pdf](https://www.dhil.net/research/papers/effects_for_efficiency-draft-march2020.pdf))
-,
+
 **Elaboration with First-Class Implicit Function Types**  
 András Kovács  
 ([pdf](https://github.com/AndrasKovacs/icfp20sub/blob/master/paper.pdf))
@@ -162,6 +162,6 @@ Aaron Stump, Chris Jenkins, Stephan Spahn, Colin McDonald
 Jeremiah Griffin, Mohsen Lesani, Narges Shadab, Xizhe Yin  
 ([arXiv](https://arxiv.org/pdf/2004.01360))
 
-The Simple Essence of Algebraic Subtyping (Functional Pearl)
+**The Simple Essence of Algebraic Subtyping (Functional Pearl)**  
 Lionel Parreaux  
 ([html](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html))
