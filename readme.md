@@ -37,6 +37,7 @@ Alejandro Serrano, Jurriaan Hage, Simon Peyton Jones, Dimitrios Vytiniotis
 
 **A Unified View of Modalities in Type Systems**  
 Andreas Abel, Jean-Philippe Bernardy  
+([pdf](http://www.cse.chalmers.se/~abela/icfp20.pdf)) ([extended](http://www.cse.chalmers.se/~abela/icfp20-long.pdf))
 
 **A dependently typed calculus with pattern matching and erasure inference**  
 Matúš Tejiščák  
