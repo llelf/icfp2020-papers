@@ -105,6 +105,7 @@ Sebastian Graf, Simon Peyton Jones, Ryan G. Scott
 
 **Parsing with Zippers (Functional Pearl)**  
 Pierce Darragh, Michael D. Adams  
+([artifact](https://github.com/pdarragh/parsing-with-zippers-paper-artifact))
 
 **Program Sketching with Live Bidirectional Evaluation**  
 Justin Lubin, Nick Collins, Cyrus Omar, Ravi Chugh  
