@@ -116,7 +116,7 @@ Di Wang, David M. Kahn, Jan Hoffmann
 
 **Recovering Purity with Comonads and Capabilities**  
 Vikraman Choudhury, Neel Krishnaswami  
-([pdf](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf))
+([arXiv](https://arxiv.org/abs/1907.07283))
 
 **Regular Language Type Inference with Term Rewriting**  
 Timothée Haudebourg, Thomas Genet, Thomas P. Jensen  
