@@ -69,7 +69,7 @@ Nandor Licker, Timothy M. Jones
 
 **Effect Handlers, Evidently**  
 Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, Daan Leijen  
-([pdf](https://www.dhil.net/research/papers/effect_handlers_evidently-draft-march2020.pdf))
+([pdf](https://xnning.github.io/papers/effect-handlers-evidently.pdf))
 
 **Effects for Efficiency: Asymptotic Speedup with First-Class Control**  
 Daniel Hillerström, Sam Lindley, John Longley  
