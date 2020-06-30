@@ -114,6 +114,7 @@ Justin Lubin, Nick Collins, Cyrus Omar, Ravi Chugh
 
 **Raising Expectations: Automating Expected Cost Analysis with Types**  
 Di Wang, David M. Kahn, Jan Hoffmann  
+([arXiv](https://arxiv.org/pdf/2006.14010.pdf))
 
 **Recovering Purity with Comonads and Capabilities**  
 Vikraman Choudhury, Neel Krishnaswami  
