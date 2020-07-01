@@ -33,7 +33,7 @@ Xiaohong Chen, Grigore Rosu
 
 **A Quick Look at Impredicativity**  
 Alejandro Serrano, Jurriaan Hage, Simon Peyton Jones, Dimitrios Vytiniotis  
-([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/quick-look.pdf))
+([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/quick-look-icfp20.pdf))
 
 **A Unified View of Modalities in Type Systems**  
 Andreas Abel, Jean-Philippe Bernardy  
@@ -102,7 +102,7 @@ Di Wang, Tristan Knoth, Adam Reynolds, Nadia Polikarpova, Jan Hoffmann
 
 **Lower Your Guards**  
 Sebastian Graf, Simon Peyton Jones, Ryan G. Scott  
-([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf))
+([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lower-your-guards-icfp20.pdf))
 
 **Parsing with Zippers (Functional Pearl)**  
 Pierce Darragh, Michael D. Adams  
