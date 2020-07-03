@@ -90,7 +90,7 @@ Gabriel Radanne, Hannes Saffrich, Peter Thiemann
 
 **Kinds are Calling Conventions**  
 Paul Downen, Zena M. Ariola, Simon Peyton Jones, Richard A. Eisenberg  
-([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/arity-poly.pdf))
+([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/kacc.pdf))
 
 **Liquid Information Flow Control**  
 Nadia Polikarpova, Deian Stefan, Jean Yang, Shachar Itzhaky, Travis Hance, Armando Solar-Lezama  
