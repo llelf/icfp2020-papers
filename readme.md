@@ -146,6 +146,7 @@ Taro Sekiyama, Takeshi Tsukada, Atsushi Igarashi
 
 **Sparcl: A Language for Partially-Invertible Computation**  
 Kazutaka Matsuda, Meng Wang  
+([pdf](https://mengwangoxf.github.io/Papers/ICFP20.pdf), [implementation](https://github.com/kztk-m/sparcl))
 
 **Stable Relations and Abstract Interpretation of Higher-Order Programs**  
 Benoit Montagu, Thomas P. Jensen  
