@@ -66,7 +66,7 @@ Joe Cutler, Dan Licata, Norman Danner
 
 **Duplo: A Framework for OCaml Post-Link Optimisation**  
 Nandor Licker, Timothy M. Jones  
-([pdf](https://www.cl.cam.ac.uk/~nl364/docs/duplo.pdf), [source code](https://github.com/nandor/llir-opt))
+([pdf](https://www.cl.cam.ac.uk/~nl364/docs/duplo.pdf)) ([source code](https://github.com/nandor/llir-opt))
 
 **Effect Handlers, Evidently**  
 Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, Daan Leijen  
@@ -146,7 +146,7 @@ Taro Sekiyama, Takeshi Tsukada, Atsushi Igarashi
 
 **Sparcl: A Language for Partially-Invertible Computation**  
 Kazutaka Matsuda, Meng Wang  
-([pdf](https://mengwangoxf.github.io/Papers/ICFP20.pdf), [implementation](https://github.com/kztk-m/sparcl))
+([pdf](https://mengwangoxf.github.io/Papers/ICFP20.pdf)) ([implementation](https://github.com/kztk-m/sparcl))
 
 **Stable Relations and Abstract Interpretation of Higher-Order Programs**  
 Benoit Montagu, Thomas P. Jensen  
