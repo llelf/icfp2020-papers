@@ -55,6 +55,7 @@ Matthew Weidner, Christopher Meiklejohn, Heather Miller
 
 **Computation Focusing**  
 Nick Rioux, Steve Zdancewic  
+([pdf](https://www.cis.upenn.edu/~stevez/papers/RZ20.pdf))
 
 **Cosmo: A Concurrent Separation Logic for Multicore OCaml**  
 Glen Mével, Jacques-Henri Jourdan, François Pottier  
