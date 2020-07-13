@@ -166,6 +166,6 @@ Aaron Stump, Chris Jenkins, Stephan Spahn, Colin McDonald
 Jeremiah Griffin, Mohsen Lesani, Narges Shadab, Xizhe Yin  
 ([arXiv](https://arxiv.org/pdf/2004.01360))
 
-**The Simple Essence of Algebraic Subtyping (Functional Pearl)**  
+**The Simple Essence of Algebraic Subtyping: Principal Type Inference with Subtyping Made Easy (Functional Pearl)**  
 Lionel Parreaux  
-([html](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html))
+([infoscience](https://infoscience.epfl.ch/record/278576))
