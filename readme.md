@@ -162,6 +162,7 @@ Nikhil Swamy, Aseem Rastogi, Aymeric Fromherz, Denis Merigoux, Danel Ahman, Guid
 
 **Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille**  
 Aaron Stump, Chris Jenkins, Stephan Spahn, Colin McDonald  
+([pdf](http://homepage.divms.uiowa.edu/~astump/papers/stump-icfp20.pdf))
 
 **Temporal Logic of Composable Distributed Components**  
 Jeremiah Griffin, Mohsen Lesani, Narges Shadab, Xizhe Yin  
